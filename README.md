@@ -1,0 +1,2 @@
+# namajtimetable
+namajtimetable.co.sc
